@@ -22,8 +22,8 @@ both the label space and input space, and look for similarities between them. Fo
 # Data:
 We are providing a train dataset with 25K questions and a val set of 5K questions. Each data point is accompanied by corresponding tables and gold answers. The below Figure shows a representative example from the dataset.
 ![image](https://github.com/saransh738/COL772-Table-Cell-Classification-for-Question-Answering/assets/74806993/0c43ac2e-b3c6-48a6-80db-ab178d8b2538)
-Example Table. Question: What are the lowest number of wickets? Correct
-labels are marked in green.
+Question: What are the lowest number of wickets? 
+Correct labels are marked in green.
 
 
 
